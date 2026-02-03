@@ -28,3 +28,4 @@ Unlike standard dashboards, this project implements a full **ETL Pipeline**:
 3. **Create Views:** Run the SQL scripts in `sql_views.sql` to generate analytical views.
 4. **Dashboard:** Open `Vehicle_Analytics.pbix` and click 'Refresh'.
 
+## Dataset : I wasn't able to upload the dataset since it was in big size , i used the kaggle's (Indian Vehicle Registration Data(2020-2025)
